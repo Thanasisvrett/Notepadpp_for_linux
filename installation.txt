@@ -1,0 +1,5 @@
+1.Open linux terminal
+2.next type sudo apt install wine
+3.Move the folder
+3.Run the .sh file
+4.Enjoy
